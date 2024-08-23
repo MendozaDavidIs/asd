@@ -13,7 +13,7 @@ h1 {
 
 
 button {
-    color: rgb(0, 0, 0);
+    color: RGB(0, 0, 0);
     width: 80px;
     height: 40px;
     border: 3px solid #ec1010;
@@ -48,7 +48,7 @@ body {
     max-width: 1200px;
     max-height: 673px;
     margin: 0 auto;
-    background-image: url(./foto/3418477.jpg);
+    background-image: URL(3418477.jpg);
     background-repeat: no-repeat; 
     background-position: center center; 
      background-size: cover;
@@ -58,5 +58,5 @@ body {
 p {
     font-size: xx-large;
     justify-content: center;
-    color: rgb(1, 245, 253);
+    color: RGB(1, 245, 253);
 }
